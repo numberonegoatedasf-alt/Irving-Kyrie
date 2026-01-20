@@ -13,32 +13,10 @@ p {
 
 }
 
-h2 {
-    color:black;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 300%;
-    padding: 1px;
-    margin: 30px;
-}
-
-h3 {
-    color: black;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 300%;
-    padding: 1px;
-    margin: 30px;
-}
-
 li {
     color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 150%
-}
-
-h4 {
-    color: black;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 300%;
 }
 
 p1 {
